@@ -1,0 +1,1 @@
+## Simulation of Private Variable in JS Fuction 
