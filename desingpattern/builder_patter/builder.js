@@ -45,3 +45,4 @@ const house1 = new HouseBuilder()
     .build();
 
 console.log(house1)
+
